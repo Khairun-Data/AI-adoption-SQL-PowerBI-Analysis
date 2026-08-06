@@ -1,0 +1,209 @@
+economy,CountryCode,GdpPerCapita,WorldRegion
+Afghanistan,AFG,1964.45,Asia
+Albania,ALB,21640.98,Europe
+Algeria,DZA,15501.92,Africa
+Andorra,AND,66232.74,Europe
+Angola,AGO,8752.80,Africa
+"Antigua and Barbuda",ATG,29298.65,"North America"
+Argentina,ARG,26771.97,"South America"
+Armenia,ARM,20078.79,Asia
+Aruba,ABW,45428.00,"North America"
+Australia,AUS,60309.58,Oceania
+Austria,AUT,63787.99,Europe
+Azerbaijan,AZE,22090.53,Asia
+Bahamas,BHS,36244.05,"North America"
+Bahrain,BHR,59060.18,Asia
+Bangladesh,BGD,8486.79,Asia
+Barbados,BRB,21557.53,"North America"
+Belarus,BLR,29135.95,Europe
+Belgium,BEL,63311.28,Europe
+Belize,BLZ,12621.41,"North America"
+Benin,BEN,3901.33,Africa
+Bermuda,BMU,104299.95,"North America"
+Bhutan,BTN,15603.89,Asia
+Bolivia,BOL,11329.15,"South America"
+"Bosnia and Herzegovina",BIH,20578.50,Europe
+Botswana,BWA,18107.62,Africa
+Brazil,BRA,19652.37,"South America"
+Brunei,BRN,79071.73,Asia
+Bulgaria,BGR,34221.39,Europe
+"Burkina Faso",BFA,2548.50,Africa
+Burundi,BDI,1048.06,Africa
+Cambodia,KHM,7011.58,Asia
+Cameroon,CMR,4916.93,Africa
+Canada,CAN,57534.09,"North America"
+"Cape Verde",CPV,9825.53,Africa
+"Cayman Islands",CYM,80996.65,"North America"
+"Central African Republic",CAF,1111.22,Africa
+Chad,TCD,2430.73,Africa
+Chile,CHL,30267.65,"South America"
+China,CHN,23841.48,Asia
+Colombia,COL,18481.84,"South America"
+Comoros,COM,3556.04,Africa
+Congo,COG,6152.57,Africa
+"Costa Rica",CRI,27325.05,"North America"
+"Cote d'Ivoire",CIV,6747.04,Africa
+Croatia,HRV,42828.80,Europe
+Curacao,CUW,28762.06,"North America"
+Cyprus,CYP,52861.84,Europe
+Czechia,CZE,47972.53,Europe
+"Congo (DRC)",COD,1601.71,Africa
+Denmark,DNK,71034.58,Europe
+Djibouti,DJI,6871.12,Africa
+Dominica,DMA,18739.36,"North America"
+"Dominican Republic",DOM,24229.89,"North America"
+"East Asia and Pacific (WB)",WB_EAP,24094.16,
+"East Timor",TLS,3890.96,Asia
+Ecuador,ECU,13922.42,"South America"
+Egypt,EGY,16798.15,Africa
+"El Salvador",SLV,11647.02,"North America"
+"Equatorial Guinea",GNQ,14997.76,Africa
+Estonia,EST,41185.84,Europe
+Eswatini,SWZ,10386.22,Africa
+Ethiopia,ETH,2892.22,Africa
+"Europe and Central Asia (WB)",WB_ECA,44981.32,
+"European Union (27)",OWID_EU27,54341.63,
+"Faroe Islands",FRO,72113.65,Europe
+Fiji,FJI,13592.46,Oceania
+Finland,FIN,55901.32,Europe
+France,FRA,54799.35,Europe
+Gabon,GAB,18923.66,Africa
+Gambia,GMB,3057.68,Africa
+Georgia,GEO,24146.62,Asia
+Germany,DEU,62654.60,Europe
+Ghana,GHA,7072.80,Africa
+Greece,GRC,37474.28,Europe
+Grenada,GRD,17484.52,"North America"
+Guatemala,GTM,12643.98,"North America"
+Guinea,GIN,4016.34,Africa
+Guinea-Bissau,GNB,2717.54,Africa
+Guyana,GUY,70516.70,"South America"
+Haiti,HTI,2783.79,"North America"
+"High-income countries",OWID_HIC,58645.04,
+Honduras,HND,6590.84,"North America"
+"Hong Kong",HKG,66186.05,Asia
+Hungary,HUN,40747.20,Europe
+Iceland,ISL,68230.36,Europe
+India,IND,9416.05,Asia
+Indonesia,IDN,14470.72,Asia
+Iran,IRN,17484.13,Asia
+Iraq,IRQ,12725.04,Asia
+Ireland,IRL,118833.31,Europe
+Israel,ISR,47388.72,Asia
+Italy,ITA,53284.88,Europe
+Jamaica,JAM,11340.26,"North America"
+Japan,JPN,47479.84,Asia
+Jordan,JOR,10468.27,Asia
+Kazakhstan,KAZ,35973.97,Asia
+Kenya,KEN,5841.60,Africa
+Kiribati,KIR,3275.00,Oceania
+Kosovo,OWID_KOS,15716.29,Europe
+Kuwait,KWT,46664.22,Asia
+Kyrgyzstan,KGZ,7210.58,Asia
+Laos,LAO,8600.32,Asia
+"Latin America and Caribbean (WB)",WB_LAC,19954.15,
+Latvia,LVA,37615.08,Europe
+Lebanon,LBN,10469.22,Asia
+Lesotho,LSO,2697.63,Africa
+Liberia,LBR,1646.06,Africa
+Libya,LBY,12583.83,Africa
+Lithuania,LTU,47462.00,Europe
+"Low-income countries",OWID_LIC,2395.99,
+"Lower-middle-income countries",OWID_LMC,8930.71,
+Luxembourg,LUX,128475.28,Europe
+Macao,MAC,111693.50,Asia
+Madagascar,MDG,1659.15,Africa
+Malawi,MWI,1634.25,Africa
+Malaysia,MYS,34116.23,Asia
+Maldives,MDV,23034.41,Asia
+Mali,MLI,2917.93,Africa
+Malta,MLT,62398.49,Europe
+"Marshall Islands",MHL,7236.87,Oceania
+Mauritania,MRT,6482.69,Africa
+Mauritius,MUS,27844.90,Africa
+Mexico,MEX,21970.35,"North America"
+"Micronesia (country)",FSM,3911.27,Oceania
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",WB_MENAP,14391.41,
+Moldova,MDA,16393.86,Europe
+Mongolia,MNG,16842.65,Asia
+Montenegro,MNE,28105.59,Europe
+Morocco,MAR,9162.75,Africa
+Mozambique,MOZ,1500.71,Africa
+Myanmar,MMR,5276.29,Asia
+Namibia,NAM,10276.37,Africa
+Nauru,NRU,11957.88,Oceania
+Nepal,NPL,5047.42,Asia
+Netherlands,NLD,70493.91,Europe
+"New Zealand",NZL,48325.36,Oceania
+Nicaragua,NIC,7661.09,"North America"
+Niger,NER,1795.65,Africa
+Nigeria,NGA,7994.04,Africa
+"North America (WB)",WB_NA,73737.56,
+"North Macedonia",MKD,24203.19,Europe
+Norway,NOR,94803.67,Europe
+Oman,OMN,36721.08,Asia
+Pakistan,PAK,5502.07,Asia
+Palau,PLW,18499.99,Oceania
+Palestine,PSE,4190.91,Asia
+Panama,PAN,36394.92,"North America"
+"Papua New Guinea",PNG,4292.71,Oceania
+Paraguay,PRY,16367.49,"South America"
+Peru,PER,15708.83,"South America"
+Philippines,PHL,10378.17,Asia
+Poland,POL,45153.04,Europe
+Portugal,PRT,42228.16,Europe
+"Puerto Rico",PRI,44216.43,"North America"
+Qatar,QAT,111314.25,Asia
+Romania,ROU,40503.83,Europe
+Russia,RUS,41891.17,Europe
+Rwanda,RWA,3325.01,Africa
+"Saint Kitts and Nevis",KNA,30656.44,"North America"
+"Saint Lucia",LCA,24699.97,"North America"
+"Saint Vincent and the Grenadines",VCT,18714.20,"North America"
+Samoa,WSM,7687.23,Oceania
+"Sao Tome and Principe",STP,5511.88,Africa
+"Saudi Arabia",SAU,63194.43,Asia
+Senegal,SEN,4477.82,Africa
+Serbia,SRB,26900.74,Europe
+Seychelles,SYC,29288.02,Africa
+"Sierra Leone",SLE,3098.76,Africa
+Singapore,SGP,134548.77,Asia
+"Sint Maarten (Dutch part)",SXM,47303.20,"North America"
+Slovakia,SVK,40302.45,Europe
+Slovenia,SVN,48658.03,Europe
+"Solomon Islands",SLB,2353.55,Oceania
+Somalia,SOM,1409.34,Africa
+"South Africa",ZAF,13597.65,Africa
+"South Asia (WB)",WB_SA,9307.07,
+"South Korea",KOR,55070.94,Asia
+Spain,ESP,48460.29,Europe
+"Sri Lanka",LKA,13793.07,Asia
+"Sub-Saharan Africa (WB)",WB_SSA,4872.92,
+Sudan,SDN,1861.40,Africa
+Suriname,SUR,19179.10,"South America"
+Sweden,SWE,62558.41,Europe
+Switzerland,CHE,85448.06,Europe
+Tajikistan,TJK,4755.93,Asia
+Tanzania,TZA,3713.26,Africa
+Thailand,THA,21882.22,Asia
+Togo,TGO,3351.25,Africa
+Tonga,TON,7180.99,Oceania
+"Trinidad and Tobago",TTO,31960.16,"North America"
+Tunisia,TUN,12774.92,Africa
+Turkey,TUR,36154.49,Asia
+Turkmenistan,TKM,18470.74,Asia
+"Turks and Caicos Islands",TCA,33390.53,"North America"
+Tuvalu,TUV,5592.19,Oceania
+Uganda,UGA,2879.67,Africa
+Ukraine,UKR,16371.44,Europe
+"United Arab Emirates",ARE,69701.79,Asia
+"United Kingdom",GBR,53412.07,Europe
+"United States",USA,75698.18,"North America"
+"Upper-middle-income countries",OWID_UMC,20967.36,
+Uruguay,URY,32149.48,"South America"
+Uzbekistan,UZB,10997.17,Asia
+Vanuatu,VUT,3837.04,Oceania
+Vietnam,VNM,14396.42,Asia
+World,OWID_WRL,21393.18,
+Zambia,ZMB,3708.07,Africa
+Zimbabwe,ZWE,5211.90,Africa
