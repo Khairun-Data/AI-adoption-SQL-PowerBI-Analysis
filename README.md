@@ -1,6 +1,8 @@
 # Global AI Adoption Analysis
 ## Project overview
-This project explores the global use of generative AI trends using SQL and Power BI.
+This project explores the global use of generative AI trends using SQL and Power BI. This repository contains datasets from Microsoft’s AI Diffusion research and global GDP. 
+
+The AI diffusion report tracks the use of generative AI across countries and over time while the global GDP is from they year 2024. 
 
 ## Tools Used
 - MySQL
